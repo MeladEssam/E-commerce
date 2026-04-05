@@ -184,7 +184,7 @@ If you like this project, give it a ⭐ on GitHub!
 
 <p align="center">
   <img src="./screenshots/shop.png" width="45%" alt="shop Screen" />
-  <img src="./screenshots/search-page" width="45%" alt="search Screen" />
+  <img src="./screenshots/searchPage.png" width="45%" alt="searchPage Screen" />
 </p>
 
 <p align="center">
